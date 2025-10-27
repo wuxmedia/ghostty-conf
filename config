@@ -1,0 +1,40 @@
+##2025-08-21 WuX
+
+font-size = 14
+font-family = Source Code Pro
+#font-family-bold = Source Code Pro Bold
+
+macos-option-as-alt = true
+window-save-state = always
+macos-titlebar-style = transparent
+
+font-thicken
+
+window-decoration = auto
+
+window-padding-x = 10
+window-padding-y = 10,100
+
+#theme = light:Tinacious Design Light,dark:Tinacious Design Dark
+## too garish
+
+#theme = light:Tomorrow,dark:Tomorrow Night Eighties
+#background = #181818
+## custom background
+theme = light:Numix-lightest,dark:Numix-darkest
+
+#theme = Tomorrow Night Eighties
+#theme = light:Raycast Light,dark:Raycast Dark
+##OK
+
+
+window-save-state = always
+quit-after-last-window-closed=true
+copy-on-select = clipboard
+
+shell-integration-features = no-cursor
+cursor-style = block
+#cursor-color = #bf6bf7
+
+#selection-background = #bf6bf7
+#selection-foreground = #ffffff
