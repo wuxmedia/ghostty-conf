@@ -1,0 +1,23 @@
+##/Applications/Ghostty.app/Contents/Resources/ghostty/themes/Numix-darkest
+palette = 0=#555555
+palette = 1=#9C3528
+palette = 2=#61BC3B
+palette = 3=#F3B43A
+palette = 4=#0D68A8
+palette = 5=#744560
+palette = 6=#288e9c
+palette = 7=#a8a8a8
+palette = 8=#888888
+palette = 9=#d64937
+palette = 10=#86DF5D
+palette = 11=#FDD75A
+palette = 12=#0F75BD
+palette = 13=#9E5E83
+palette = 14=#37c3d6
+palette = 15=#f9f9f9
+background = #282828
+foreground = #f8f8f8
+cursor-color = #9E5E83
+cursor-text = #fefefe
+selection-background = #9E5E83
+selection-foreground = #fafafa
